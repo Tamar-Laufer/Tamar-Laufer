@@ -69,5 +69,4 @@ I am a **Software Engineering Student (B.Sc.)** at the Jerusalem College of Tech
 
 <div align="center">
   <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamar-Laufer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Tamar-Laufer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></div>
