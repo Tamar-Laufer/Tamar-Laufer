@@ -30,7 +30,7 @@ I am a **Software Engineering Student (B.Sc.)** at the Jerusalem College of Tech
 ## 🛠️ Technical Arsenal
 
 ### Low-Level & Systems
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Algorithms](https://img.shields.io/badge/Dynamic_Programming-FF4B4B?style=for-the-badge)
@@ -45,14 +45,13 @@ I am a **Software Engineering Student (B.Sc.)** at the Jerusalem College of Tech
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br/>
 
 ## 🚀 Highlighted Projects
 
-### 🧠 [AI Project Name] - *In Development*
-* **Description:** [כתבי כאן משפט אחד באנגלית שמתאר את פרויקט ה-AI שאת מפתחת עכשיו].
-* **Tech:** Artificial Intelligence | Machine Learning
+### 🧠 Multimodal Emotion Recognition - *In Development*
+* **Description:** An advanced AI system that identifies human emotions in real-time by combining two data channels: facial expressions (DeepFace & OpenCV) and voice tone (Custom CNN trained on the RAVDESS dataset). Designed for high-reliability applications in healthcare and accessibility.
+* **Tech:** Python | TensorFlow/Keras | OpenCV | DeepFace | CNN
 
 ### ⚙️ Advanced C++ Algorithms
 * **Description:** Complex algorithmic implementations focusing on Dynamic Programming (Matrix-Chain-Order, LCS) and advanced Graph Theory (planarity and traversals). 
@@ -70,5 +69,5 @@ I am a **Software Engineering Student (B.Sc.)** at the Jerusalem College of Tech
 
 <div align="center">
   <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamar-Laufer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
