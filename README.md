@@ -2,7 +2,7 @@
 
 # 💻 Tamar Laufer
 
-**Software Engineer 🚀 · AI & Data 🧠 ·⚙️ Systems & Core Developer • C++ | C# | Python • Full-Stack 🌐**
+**Software Engineer 🚀 · AI & Data 🧠 · Systems & Core Developer • C++ | C# | Python ⚙️ • Full-Stack 🌐**
 
 💻 Software Developer • C++ | C# | Python <br/>
 🤖  AI & Deep Learning Engineer <br/>
