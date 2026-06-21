@@ -13,10 +13,10 @@
 **Software Engineer 🚀 · AI & Data 🧠 · Full-Stack 🌐**
 
 🖥️ AI & Deep Learning Engineer <br/>
-⚡ Full-Stack Developer • Node + React <br/>
 📊 Data Engineer • ML/DL Pipelines <br/>
 🧮 Mathematical Problem Solver <br/>
 🤖 Agentic-Coding Enthusiast <br/>
+⚡ Full-Stack Developer • Node + React <br/>
 
 <br/>
 
@@ -42,9 +42,9 @@ const tamar = {
 ```
 ### 🧩 Core Expertise
 
-| ⚙️ Systems & Full-Stack | 📊 Data Engineering & AI | 🧠 Mathematical Problem Solving |
+| 📊 Data Engineering & AI | 🧠 Mathematical Problem Solving | ⚙️ Systems & Full-Stack |
 | :-- | :-- | :-- |
-| End-to-end applications, secure asynchronous architectures, and OOP-based system design. | ML/DL pipelines, complex SQL/NoSQL schemas, and robust ETL processes. | Strong theory in logic, algorithms, and data structures applied to real-world challenges. |
+| ML/DL pipelines, complex SQL/NoSQL schemas, and robust ETL processes. | Strong theory in logic, algorithms, and data structures applied to real-world challenges. |  End-to-end applications, secure asynchronous architectures, and OOP-based system design. |
 
 ---
 
@@ -68,24 +68,18 @@ const tamar = {
 
 #### 🧠 Emotion Recognition AI &nbsp;<sub>`In Development`</sub>
 An advanced AI-driven platform for real-time emotional analysis and recognition.  
-`Python` · `CNNs` · `Deep Learning` · `Pandas`  
+`Python` · `CNNs` · `Deep Learning`   
 > **Key Focus** — Complex dataset handling, deep neural network training, model optimization, and actionable analytical insights.
 
 #### 🤝 Click & Pick &nbsp;<sub>`Resource Sharing`</sub>
 A scalable, global-style full-stack community platform for seamless resource sharing.  
-`React` · `Node.js` · `Express` · `MongoDB`  
+`React` · `Node.js` · `Express` · `MongoDB`· `C++`   
 > **Key Focus** — RESTful API logic, JWT-based secure authentication, and a custom BI dashboard computing user-reliability metrics.
 
 #### 🔒 NexusHub &nbsp;<sub>`Task & Post Mgmt`</sub>
 A robust project & task environment focused on secure client-server communication.  
 `React` · `Node.js` · `Express` · `MySQL`  
 > **Key Focus** — Advanced JWT with access & refresh tokens, secure asynchronous comms, and responsive profile controls.
-
-#### 🎮 Rummy AI Game &nbsp;<sub>`Decision Engine`</sub>
-A full-scale digital card game powered by a custom-engineered decision-making engine.  
-`C++` · `Advanced OOP` · `Custom Logic`  
-> **Key Focus** — Tactical algorithmic logic for a high-performance computer opponent + a highly responsive UI.
-
 ---
 
 ### 🎓 Education & Certifications
