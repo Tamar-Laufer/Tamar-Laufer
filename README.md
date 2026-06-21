@@ -6,7 +6,7 @@
 
 💻 Software Developer • C++ | C# | Python <br/>
 🤖  AI & Deep Learning Engineer <br/>
-📊 Data Engineer • ML/DL Pipelines <br/>
+📊 Data Engineer <br/>
 🧮 Mathematical Problem Solver <br/>
 ⚡ Full-Stack Developer • Node + React <br/>
 
@@ -36,7 +36,7 @@ const tamar = {
 
 | 📊 Data Engineering & AI | 🧠 Mathematical Problem Solving | ⚙️ Systems & Full-Stack |
 | :-- | :-- | :-- |
-| ML/DL pipelines, complex SQL/NoSQL schemas, and robust ETL processes. | Strong theory in logic, algorithms, and data structures applied to real-world challenges. |  End-to-end applications, secure asynchronous architectures, and OOP-based system design. |
+| complex SQL/NoSQL schemas, and robust ETL processes. | Strong theory in logic, algorithms, and data structures applied to real-world challenges. |  End-to-end applications, secure asynchronous architectures, and OOP-based system design. |
 
 ---
 
