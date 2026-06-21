@@ -46,7 +46,7 @@ const tamar = {
 > ⚙️ C++ &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🟨 JavaScript &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🟣 C#
 
 **Data Science & AI**
-> 🐼 Pandas &nbsp;|&nbsp; 🤖 scikit-learn &nbsp;|&nbsp; 🗃️ Weka &nbsp;|&nbsp; 📊 Power BI
+> 🐼 Pandas &nbsp;|&nbsp; 🗃️ Weka &nbsp;|&nbsp; 📊 Power BI
 
 **Backend & Databases**
 > 🟩 Node.js &nbsp;|&nbsp; 🚂 Express &nbsp;|&nbsp; 🐬 MySQL &nbsp;|&nbsp; 🍃 MongoDB
