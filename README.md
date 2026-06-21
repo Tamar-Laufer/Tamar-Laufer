@@ -2,15 +2,15 @@
 
 # 💻 Tamar Laufer
 
-**Software Engineer 🚀 · AI & Data 🧠 · Systems & Core Developer • C++ | C# | Python ⚙️ • Full-Stack 🌐**
+**Software Engineer 🚀 · Systems & Core ⚙️ · AI & Data 🧠 · Full-Stack 🌐**
 
-💻 Software Developer • C++ | C# | Python <br/>
-🤖  AI & Deep Learning Engineer <br/>
-📊 Data Engineer <br/>
-🧮 Mathematical Problem Solver <br/>
-⚡ Full-Stack Developer • Node + React <br/>
-
+💻 Software Developer • C++ | C# | Python<br/>
+🤖 AI & Algorithms  • | Machine Learning | Logic Engines<br/>
+📊 Data Integration & BI • ETL Processes | Power BI | Data Mining<br/>
+🧮 Mathematical Problem Solver<br/>
+⚡ Full-Stack Developer • Node.js | React | MongoDB | MySQL<br/>
 <br/>
+
 
 🎓 **B.Sc. @ JCT** &nbsp;|&nbsp; 📜 **Diploma @ MAHAT**
 
