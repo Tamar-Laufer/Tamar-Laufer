@@ -10,12 +10,12 @@
 
 # 💻 Tamar Laufer
 
-**Software Engineer 🚀 · AI & Data 🧠 · Full-Stack 🌐**
+**Software Engineer 🚀 · AI & Data 🧠 ·⚙️ Systems & Core Developer • C++ | C# | Python • Full-Stack 🌐**
 
-🖥️ AI & Deep Learning Engineer <br/>
+💻 Software Developer • C++ | C# | Python <br/>
+🤖  AI & Deep Learning Engineer <br/>
 📊 Data Engineer • ML/DL Pipelines <br/>
 🧮 Mathematical Problem Solver <br/>
-🤖 Agentic-Coding Enthusiast <br/>
 ⚡ Full-Stack Developer • Node + React <br/>
 
 <br/>
