@@ -25,7 +25,7 @@ An analytical and passionate software developer with a solid foundation in **sys
 ```ts
 const tamar = {
   role:       "Software Engineer",
-  education:  ["B.Sc. @ JCT", "Practical Engineering Diploma (MAHAT)"],
+  education:  ["B.Sc. @ The Open University", "Practical Engineering Diploma (MAHAT)"],
   focus:      ["AI / Deep Learning", "Data Engineering", "Full-Stack"],
   toolbelt:   ["C++", "Python", "JavaScript", "React", "Node.js"],
   mindset:    "bridge math logic ⟶ clean, high-performance software",
@@ -76,7 +76,7 @@ A robust project & task environment focused on secure client-server communicatio
 
 ### 🎓 Education & Certifications
 
-- 🎓 &nbsp;**B.Sc. in Software Engineering / Computer Science** — *Jerusalem College of Technology (JCT)*
+- 🎓 &nbsp;**B.Sc. in Software Engineering / Computer Science** — *The Open University*
   <br/><sub>Specializations in AI & Deep Learning, Advanced SQL Architecture, Object-Oriented Design, and Theoretical Computer Science.</sub>
 - 📐 &nbsp;**Practical Engineering Diploma (MAHAT)** — *Computer Science & Software Studies*
 - 🏅 &nbsp;**Senior Certified Teacher Certificate** — *Ministry of Education (Computer Science Emphasis)*
