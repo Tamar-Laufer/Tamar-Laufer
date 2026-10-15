@@ -12,7 +12,7 @@
 <br/>
 
 
-🎓 **B.Sc. @ JCT** &nbsp;|&nbsp; 📜 **Diploma @ MAHAT**
+🎓 **B.Sc. @ Open University** &nbsp;|&nbsp; 📜 **Diploma @ MAHAT**
 
 </div>
 
